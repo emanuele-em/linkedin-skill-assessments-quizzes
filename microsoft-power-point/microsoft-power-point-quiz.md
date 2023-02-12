@@ -825,3 +825,10 @@ D. Start When Clicked On
 - [ ] only the number of columns
 - [x] number of columns and space between columns
 
+#### Q105. In lieu of copy and paste, how can you efficently add objects or logos to all slides in a presentation?
+
+- [x] add objects to slide master
+- [ ] use a presentation template with the desired objects
+- [ ] add objects to the presentation background
+- [ ] add objects to a theme
+
