@@ -832,3 +832,9 @@ D. Start When Clicked On
 - [ ] add objects to the presentation background
 - [ ] add objects to a theme
 
+#### Q106. How do you change the color of an icon you have added?
+
+- [x] On the Graphics Format tab, click Format pane
+- [ ] On the graphics format tab, click graphics Fill
+- [ ] On the Design tab, click Format Background
+- [ ] On the Draw tab, click Ink to Shape
